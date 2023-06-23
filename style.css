@@ -21,6 +21,7 @@
 
 section {
   padding: 100px 0;
+  width: 100%;
 }
 
 section .title {
@@ -782,12 +783,12 @@ footer span a:hover {
     position: fixed;
     height: 100vh;
     width: 100%;
-    left: -100%; /*ezzel rejtjük el a mobil menüt*/
+    left: -100%;
     top: 0;
     background: var(--black);
     text-align: center;
     padding-top: 80px;
-    transition: all 0.8s ease; /*mobilmenü kinyílásának a sebessége*/
+    transition: all 0.8s ease;
     background: rgba(0, 0, 0, 0.85);
   }
 
