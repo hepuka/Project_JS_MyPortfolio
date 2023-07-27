@@ -224,6 +224,7 @@ background-color: black;
   justify-content: center;
   flex-direction: column;
   z-index: 3;
+  padding-bottom: 30px;
 
 }
 
